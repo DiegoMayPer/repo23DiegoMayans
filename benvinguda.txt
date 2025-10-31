@@ -2,7 +2,7 @@ Diego Mayans Perales
 
 (A) Benvinguda a la branca01 DiegoMayans
 (B) Modificació 01 Main DiegoMayans
+(C) Benvinguda a la branca02 DiegoMayans
 (D) Modificació 02 Main DiegoMayans
 (E) Afegim imatge a branca01 DiegoMayans
-
-
+(F) Afegim imatge a branca02 DiegoMayans
